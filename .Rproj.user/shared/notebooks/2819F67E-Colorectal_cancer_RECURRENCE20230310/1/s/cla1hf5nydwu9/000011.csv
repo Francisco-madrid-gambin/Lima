@@ -1,0 +1,6 @@
+"0",""
+"0","p1 <- p1$graph"
+"0",""
+"0","p1 + theme(strip.text.x = element_blank(), "
+"0","  strip.background = element_blank()"
+"0",") +   expand_limits(x = c(-5, 10.5), y = c(-2, 2)) ## Ajustar encuadre"

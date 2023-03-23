@@ -1,0 +1,7 @@
+"0","all <- c(""InfeccióIntraabdominal"", ""GrauHistològic"", ""InvasióPerineural"", ""CEApreIQ"", ""Estadi"", ""InvasióLimfovascular"",""RecurrènciaSíNo"", ""Sexe"", ""pT"") "
+"0",""
+"0","covariables <- c(""InfeccióIntraabdominal"", ""GrauHistològic"", ""InvasióPerineural"", ""CEApreIQ"", ""Estadi"", ""InvasióLimfovascular"")"
+"0",""
+"0","relevantes <- c(""RecurrènciaSíNo"", ""Sexe"")"
+"0",""
+"0","excluded <- c(""Sexe"", ""pT"")"

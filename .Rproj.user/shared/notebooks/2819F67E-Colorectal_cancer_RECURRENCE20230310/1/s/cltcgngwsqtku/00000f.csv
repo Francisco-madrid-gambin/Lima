@@ -1,0 +1,58 @@
+"0","library(""Hmisc"")"
+"2","Loading required package: Formula
+"
+"2","Registered S3 method overwritten by 'htmlwidgets':
+  method           from         
+  print.htmlwidget tools:rstudio
+"
+"2","
+Attaching package: ‘Hmisc’
+
+"
+"2","The following objects are masked from ‘package:questionr’:
+
+    describe, wtd.mean, wtd.table, wtd.var
+
+"
+"2","The following objects are masked from ‘package:dplyr’:
+
+    src, summarize
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    format.pval, units
+
+"
+"0","pca <- pca(dataB[,all], ncomp=2, center=TRUE, scale=TRUE)"
+"0","meta_matrix <- pca[[""X""]]"
+"0",""
+"0","coeff <- data.frame(rcorr(as.matrix(meta_matrix), type=c(""spearman""))[1])"
+"0","nm <- names(coeff)"
+"0","new <- stringr::str_remove(nm, ""r."")"
+"0","names(coeff) <- new"
+"0",""
+"0","coeff <- coeff[-1:-4, 1:4]"
+"0","# "
+"0","# ########## valor p de las correlaciones"
+"0","# y <- data.frame(rcorr(as.matrix(dataFecundante[,-1]), type=c(""spearman""))[3])"
+"0","# y <- y[-1:-8, 1:8]"
+"0","# "
+"0","# "
+"0","# fdr <- function(x){p.adjust(x, method = ""fdr"")}"
+"0","# FDRcorr <- apply(data.matrix(y), 2, fdr)"
+"0","# "
+"0","# colnames(coeff)"
+"0","# "
+"0","# obj.cim <- cim(as.matrix(coeff),"
+"0","#                xlab = """", ylab = """","
+"0","#                cutoff = 0.5,"
+"0","#                row.cex = 0.8,"
+"0","#                # col.sideColors = c(1:8),"
+"0","#                col.cex = 0.55, "
+"0","#                margins = c(5, 9),"
+"0","#                save = ""png"", name.save	= ""heatmapFecundante_sinAA052"""
+"0","# )"
+"0","# "
+"0","# write.csv(coeff, ""corr_coeff_Fecundante_sinAA2.csv"")"
+"0","# write.csv(y, ""corr_p_Fecundante_sinAA2.csv"")"

@@ -1,0 +1,8 @@
+"0","pca_plot <- pca((dataB[,-1:-127]), ncomp=2, center=TRUE, scale=TRUE)"
+"0","p1 <- plotIndiv (pca_plot,"
+"0","           style = ""ggplot2"", "
+"0","           ind.names= dataB$daysTOrecurrence,"
+"0","           # col.per.group = c(""red"", ""blue"", ""orange""),"
+"0","           group= dataB$RecurrènciaSíNo,"
+"0","           legend = TRUE,"
+"0","           title  = """")"
