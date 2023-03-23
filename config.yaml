@@ -16,14 +16,10 @@ menu:
   main:
     - name: About
       url: /about/
-    - name: Teaching
-      url: /teaching/   
-    - name: Employments
-      url: /employments/  
     - name: Portfolio
       url: /portfolio/ 
-    - name: Linkedin
-      url: https://www.linkedin.com/in/francisco-m-74489010a/
+    - name: Network
+      url: https://charming-vacherin-256b64.netlify.app//
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
