@@ -1,9 +1,9 @@
 # LIMA <img src='static/images/logo.png' align="right" height="139" />
 
-[![Linkedin](https://img.shields.io/static/v1?label=Linkedin&message=Profile&color=darkblue)](https://www.linkedin.com/in/francisco-m-74489010a/)
-[![Netlify](https://img.shields.io/static/v1?label=Netlify&message=Page&color=yellow)](https://franciscomadrid.netlify.app/)
-[![ORDIC](https://img.shields.io/static/v1?label=ORCID&message=ID&color=lightgreen)](https://orcid.org/0000-0001-9333-0014)
-[![Publications](https://img.shields.io/static/v1?label=Scholar&message=Publications&color=blue)](https://scholar.google.es/citations?user=O6jL4bcAAAAJ&hl=es)
+[![Linkedin](https://img.shields.io/static/v1?label=Linkedin&message=Profile&color=darkblue)](https://www)
+[![Netlify](https://img.shields.io/static/v1?label=Netlify&message=Page&color=yellow)]()
+[![ORDIC](https://img.shields.io/static/v1?label=ORCID&message=ID&color=lightgreen)]()
+[![Publications](https://img.shields.io/static/v1?label=Scholar&message=Publications&color=blue)]()
 
 
 <div style="text-align: justify">

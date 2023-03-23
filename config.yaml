@@ -22,6 +22,8 @@ menu:
       url: https://metabolomeconnectome.netlify.app/
     - name: Projects
       url: https://www.imim.cat/programesrecerca/neurociencies/es_metabolomica_aplicada.html?t=projectes&g=127/
+    - name: Members
+      url: https://www.imim.cat/programesrecerca/neurociencies/en_metabolomica_aplicada.html?t=membres&g=127/
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
