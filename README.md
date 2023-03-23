@@ -1,7 +1,7 @@
 # LIMA <img src='static/images/logo.png' align="right" height="139" />
 
 [![Linkedin](https://img.shields.io/static/v1?label=Linkedin&message=Profile&color=darkblue)](https://www)
-[![Netlify](https://img.shields.io/static/v1?label=Netlify&message=Page&color=yellow)]()
+[![Netlify](https://img.shields.io/static/v1?label=Netlify&message=Page&color=yellow)](https://limametabolomics.netlify.app/about/)
 [![ORDIC](https://img.shields.io/static/v1?label=ORCID&message=ID&color=lightgreen)]()
 [![Publications](https://img.shields.io/static/v1?label=Scholar&message=Publications&color=blue)]()
 
