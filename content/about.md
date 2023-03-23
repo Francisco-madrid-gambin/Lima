@@ -2,6 +2,12 @@
 date: "`r Sys.Date()`"
 title: About us
 ---
+<img src="/images/IMIM.jpg" height=100 align="right" style = "position:relative; left:0px; top:-40px; "/>
+
+<br />
+<br />
+<br />
+<br />
 
 <div style="text-align: justify">
 The Applied Metabolomics Research Group (LIMA) is a young group but with extensive experience in the development of analytical methods and their application in the field of health. Our research has led to the discovery of new metabolic pathways, disease markers and mechanisms of action linked to certain disease states.</div>
@@ -35,4 +41,7 @@ The main objective of this research area is to characterise conjugated metabolit
 **Developing guided metabolomic strategies and applying these in clinical research.**
 <div style="text-align: justify">
 The main goal of this area of research is to develop metabolomics methods capable of the non-targeted detection of metabolites with specific structural characteristics. This allows the detection and elucidation of metabolites that lie beyond pre-established metabolic pathways. We are currently applying this technology in cancer to search for oncometabolites.</div>
-</div>
+<br />
+<br />
+<img src="/images/facilities.jpg" height=400 align="right/>
+
