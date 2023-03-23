@@ -17,9 +17,9 @@ menu:
     - name: About
       url: /about/
     - name: Portfolio
-      url: /portfolio/ 
+      url: /portfolio/
     - name: Network
-      url: https://charming-vacherin-256b64.netlify.app//
+      url: https://metabolomeconnectome.netlify.app/
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
