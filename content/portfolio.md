@@ -7,7 +7,7 @@ date: "`r Sys.Date()`"
 <div style="text-align: justify">Regularized canonical correlation analyses (rCCA) were performed on all individuals using the regularization of the empirical covariance matrices. This model serves as an integrative multivariate approach to assess correlations between metabolomics, plasma alkaloids, and drug subjective effects. Lambdas were estimated utilizing the Shrinkage method. Next, integrative pathway network and the corresponding clustered heat map were built from the rCCA outputs. Clustered heat map dendrograms were computed from hierarchical cluster analysis, using the Euclidean distance and the complete linkage method.</div><img src="/images/circos_plot.png" /> <img src="/images/heatmap.png" />
 
 Link to **conectome-metabolome network** after the administration of a psychedelic drug (link can take a while):</div>
-https://metabolomeconnectome.netlify.app/
+<p>Check out <a href="https://metabolomeconnectome.netlify.app/" target="_blank">multiomics</a>.</p>
 <br />
 <br />
 Previous work:
