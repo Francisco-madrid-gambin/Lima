@@ -13,7 +13,7 @@ The Applied Metabolomics Research Group (LIMA) is a young group but with extensi
 <img src="/images/Fondo.png" />
 
 <div style="text-align: justify">
-The group also includes the IMIM Metabolomics Platform and is part of the European infrastructure for translational medicine, Eatris (https://eatris.eu/), the Spanish Metabolomics Network (https://metabored.org/), and the multidisciplinary centre TECNIO, BAPP (http://bapp.upf.edu/?lang=es).
+The group also includes the IMIM Metabolomics Platform and is part of the European infrastructure for translational medicine, <a href="https://eatris.eu/" target="_blank">Eatris</a>, the <a href="https://metabored.org/" target="_blank">Spanish Metabolomics Network</a>, and the multidisciplinary centre TECNIO, <a href="http://bapp.upf.edu/?lang=es" target="_blank">BAPP</a>.
 </div>
 
 
